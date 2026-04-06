@@ -24,28 +24,39 @@ I work on AWS and DevOps projects focused on automation, scalability, and delive
 
 ---
 
-## 💻 Tech Stack:
+## 🛠️ Tech Stack
 
+### Languages & Frameworks
 <p align="left">
+  <img src="https://skillicons.dev/icons?i=python" height="50"/>
+  <img src="https://skillicons.dev/icons?i=django" height="50"/>
+  <img src="https://skillicons.dev/icons?i=javascript" height="50"/>
+  <img src="https://skillicons.dev/icons?i=html" height="50"/>
+  <img src="https://skillicons.dev/icons?i=css" height="50"/>
+</p>
 
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
-  <img src="https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white" />
-  
-  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
-  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+---
 
-  <img src="https://img.shields.io/badge/Trivy-1904DA?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white" />
-  <img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Shell_Scripting-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
-  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
+### Cloud & DevOps
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=aws" height="50"/>
+  <img src="https://skillicons.dev/icons?i=gcp" height="50"/>
+  <img src="https://skillicons.dev/icons?i=docker" height="50"/>
+  <img src="https://skillicons.dev/icons?i=kubernetes" height="50"/>
+  <img src="https://skillicons.dev/icons?i=jenkins" height="50"/>
+  <img src="https://skillicons.dev/icons?i=gitlab" height="50"/>
+  <img src="https://skillicons.dev/icons?i=terraform" height="50"/>
+  <img src="https://skillicons.dev/icons?i=ansible" height="50"/>
+</p>
 
+---
+
+### Databases & Monitoring
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=postgres" height="50"/>
+  <img src="https://skillicons.dev/icons?i=mongodb" height="50"/>
+  <img src="https://skillicons.dev/icons?i=redis" height="50"/>
+  <img src="https://skillicons.dev/icons?i=prometheus" height="50"/>
+  <img src="https://skillicons.dev/icons?i=grafana" height="50"/>
+  <img src="https://skillicons.dev/icons?i=elasticsearch" height="50"/>
 </p>
