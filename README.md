@@ -7,7 +7,7 @@
 ---
 
 ## 🚀 About Me:
-I am currently working on AWS and DevOps projects focused on automation, scalability, and building cost-efficient serverless solutions.
+I work on AWS and DevOps projects focused on automation, scalability, and delivering cost-efficient serverless solutions.
 
 ---
 
