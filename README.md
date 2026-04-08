@@ -59,4 +59,5 @@ I work on AWS and DevOps projects focused on automation, scalability, and delive
   <img src="https://skillicons.dev/icons?i=prometheus" height="50"/>
   <img src="https://skillicons.dev/icons?i=grafana" height="50"/>
   <img src="https://skillicons.dev/icons?i=elasticsearch" height="50"/>
+  <img src="https://skillicons.dev/icons?i=dotnet" height="50"/>
 </p>
