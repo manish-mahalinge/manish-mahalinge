@@ -64,7 +64,7 @@ I work on AWS and DevOps projects focused on automation, scalability, and delive
 
 ### Security Tools
 <p align="left">
-  <img src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white" height="50"/>
-  <img src="https://img.shields.io/badge/Trivy-1904DA?style=for-the-badge&logo=aquasec&logoColor=white" height="50"/>
-  <img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white" height="50"/>
+  <img src="https://cdn.simpleicons.org/owasp/000000" height="50"/>
+  <img src="https://cdn.simpleicons.org/aquasec/1904DA" height="50"/>
+  <img src="https://cdn.simpleicons.org/sonarqube/4E9BCD" height="50"/>
 </p>
