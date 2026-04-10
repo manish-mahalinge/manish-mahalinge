@@ -45,6 +45,7 @@ I work on AWS and DevOps projects focused on automation, scalability, and delive
   <img src="https://skillicons.dev/icons?i=kubernetes" height="50"/>
   <img src="https://skillicons.dev/icons?i=jenkins" height="50"/>
   <img src="https://skillicons.dev/icons?i=gitlab" height="50"/>
+  <img src="https://skillicons.dev/icons?i=azure" height="50"/>
   <img src="https://skillicons.dev/icons?i=terraform" height="50"/>
   <img src="https://skillicons.dev/icons?i=ansible" height="50"/>
 </p>
